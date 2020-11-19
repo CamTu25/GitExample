@@ -1,4 +1,3 @@
 # GitExample
 GitExample
-Demo test branch 1
-Demo test 2 Test branch test2
+Trần Thị Cẩm Tú
