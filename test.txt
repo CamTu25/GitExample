@@ -6,8 +6,6 @@ Trần Thị Cẩm Tú test test branch 1
 Cẩm Tú branch 2
 Test test test test test test test test
 Cẩm tú
-<<<<<<< HEAD
-Tu tu tu tu tu tu 
 Trần Thị Cẩm Tú test test branch 1
 Cẩm Tú branch 2
 Test test test test test test test test
