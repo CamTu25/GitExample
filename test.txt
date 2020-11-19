@@ -1,9 +1,3 @@
 # GitExample
 GitExample
-
- Demo 1 test
-
-
-Demo test 2
-
- test2
+Demo test branch 1
