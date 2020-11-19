@@ -1,7 +1,6 @@
 # GitExample
 GitExample
-<<<<<<< HEAD
+
 Demo test 2
-=======
  Demo 1 
->>>>>>> test1
+test1
